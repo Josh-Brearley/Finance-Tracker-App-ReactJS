@@ -1,4 +1,4 @@
-# Finance Tracker built in ReactJS
+# 📝 Finance Tracker built in ReactJS
 
 Basic finance tracker created with ReactJS, HTML, CSS. 
 
